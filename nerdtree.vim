@@ -1,5 +1,5 @@
 " turn NERDTree by default and foces the editor
-autocmd VimEnter * NERDTree | wincmd p
+" autocmd VimEnter * NERDTreeTabsOpen | wincmd p
 
 " exit NERDTree if it's  the last window
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
