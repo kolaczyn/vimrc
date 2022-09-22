@@ -8,3 +8,5 @@ nnoremap <silent> <Leader>e :NERDTreeToggle<CR>
 nnoremap <Leader>f :NERDTreeFind<CR>
 
 nnoremap <silent> <Leader>e :NERDTreeTabsToggle<CR>
+
+let NERDTreeShowHidden = 1
