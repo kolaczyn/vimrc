@@ -19,3 +19,4 @@ let g:blamer_enabled = 1
 
 let g:bufferline_echo=0
 
+set mouse=a
