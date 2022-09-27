@@ -20,3 +20,5 @@ let g:blamer_enabled = 1
 let g:bufferline_echo=0
 
 set mouse=a
+
+let g:vim_svelte_plugin_load_full_syntax = 1

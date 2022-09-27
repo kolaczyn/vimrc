@@ -23,6 +23,8 @@ Plug 'jistr/vim-nerdtree-tabs'
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+Plug 'leafOfTree/vim-svelte-plugin'
+
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 
